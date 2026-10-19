@@ -13,5 +13,5 @@ Le projet a abouti à des modèles quantifiés des réseaux trophiques et à un 
 
 Le projet et les données ne sont pas encore publics.
 
-<img src = data/ecostab.png height = 300 >
+<img src = data/ecostab.png height = 450 >
 
