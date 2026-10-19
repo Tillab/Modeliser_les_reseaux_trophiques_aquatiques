@@ -2,7 +2,7 @@
 
 ### Contexte et démarche
 Dans ce projet de recherche, j’ai modélisé les réseaux trophiques aquatiques de 16 lacs expérimentaux afin d’étudier les effets bottom-up et top-down sur la structure et le fonctionnement des réseaux trophiques. J’ai utilisé des données d’abondance, de biomasse et de taille des espèces de phytoplancton, de zooplancton et de poissons, collectées à cinq dates au cours de trois années.
-Le travail a inclus la préparation des bases de données, le nettoyage et l’exploration des données, la reconstruction des 16 réseaux trophiques et la modélisation des flux d’énergie avec le package R Fluxweb.
+Le travail a inclus la préparation des bases de données, le nettoyage et l’exploration des données, la reconstruction des 16 réseaux trophiques et la modélisation des flux d’énergie avec le package R [Fluxweb](https://cran.r-project.org/web/packages/fluxweb/index.html).
 
 ### Résultats et impact
 Le projet a abouti à des modèles quantifiés des réseaux trophiques et à un ensemble d’indices de réseau destinés à alimenter les analyses ultérieures de collègues travaillant sur la structure et le fonctionnement des écosystèmes aquatiques.
